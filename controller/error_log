@@ -1,0 +1,210 @@
+[06-Nov-2021 04:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 04:54:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 04:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 04:54:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 04:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 04:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 04:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 05:00:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 05:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer.infopillarsolution.com/controller/signin_con.php on line 17
+[06-Nov-2021 05:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 17
+[06-Nov-2021 05:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 17
+[06-Nov-2021 05:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 17
+[06-Nov-2021 05:47:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:14
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php(14): mysqli_num_rows()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 14
+[06-Nov-2021 05:47:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:14
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php(14): mysqli_num_rows()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 14
+[06-Nov-2021 05:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 17
+[06-Nov-2021 07:10:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 19
+[06-Nov-2021 07:14:36 UTC] PHP Warning:  require_once(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 07:14:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:7
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(34): require()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 15:34:07 Asia/Kolkata] PHP Warning:  require_once(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 15:34:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:7
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php(45): require()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 13:07:01 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 13:07:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:7
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(34): require()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 13:07:03 UTC] PHP Warning:  require(PHPMailer/PHPMailer.php): Failed to open stream: No such file or directory in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 13:07:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:7
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(34): require()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 7
+[06-Nov-2021 13:32:51 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(34): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:35:57 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(36): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:36:21 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(37): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:36:24 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(37): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:36:47 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(37): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:36:50 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(37): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:37:14 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(35): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:37:16 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(35): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:37:49 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(36): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:38:06 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php(36): require('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:49:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/forgotpassword_con.php on line 15
+[06-Nov-2021 14:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[06-Nov-2021 14:57:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[06-Nov-2021 14:57:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[06-Nov-2021 15:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 14
+[06-Nov-2021 15:10:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[06-Nov-2021 15:11:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[06-Nov-2021 15:13:29 UTC] PHP Warning:  Undefined variable $rows in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 16
+[06-Nov-2021 15:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function affected_rows() on null in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 16
+[06-Nov-2021 15:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[06-Nov-2021 15:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::affected_rows() in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/controller/signup_con.php on line 15
+[11-Nov-2021 08:30:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 19
+[13-Nov-2021 03:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 19
+[13-Nov-2021 03:27:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 19
+[13-Nov-2021 03:28:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 19
+[13-Nov-2021 03:30:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/zw362vdfpw0b/public_html/Emailer/controller/signin_con.php on line 19

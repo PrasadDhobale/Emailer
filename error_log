@@ -1,0 +1,123 @@
+[06-Nov-2021 13:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "SMTP" not found in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:13
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/resend_email.php(39): include()
+#1 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 13
+[06-Nov-2021 13:31:02 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/resend_email.php(39): include('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:31:06 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/resend_email.php(39): include('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[06-Nov-2021 13:31:16 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(29): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/zw362vdfpw0b/public_html/Emailer/resend_email.php(39): include('/home/zw362vdfp...')
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[07-Nov-2021 15:02:25 UTC] PHP Parse error:  syntax error, unexpected token "*", expecting end of file in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 43
+[11-Nov-2021 06:48:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailerR" not found in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 32
+[11-Nov-2021 06:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailerR" not found in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 32
+[11-Nov-2021 06:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailerR" not found in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 32
+[11-Nov-2021 06:48:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailerR" not found in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 32
+[11-Nov-2021 06:49:03 UTC] PHP Warning:  include(includes/class.phpmailer.php): Failed to open stream: No such file or directory in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 23
+[11-Nov-2021 06:49:03 UTC] PHP Warning:  include(): Failed opening 'includes/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 23
+[11-Nov-2021 06:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailerR" not found in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/sendmail.php on line 33
+[11-Nov-2021 07:08:11 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[11-Nov-2021 07:09:07 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1788
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1788
+[11-Nov-2021 07:09:33 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[11-Nov-2021 07:09:35 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[11-Nov-2021 07:15:42 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[11-Nov-2021 07:16:00 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[11-Nov-2021 07:16:03 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[11-Nov-2021 07:18:06 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[11-Nov-2021 07:18:08 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php:1960
+Stack trace:
+#0 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1787): PHPMailer\PHPMailer\PHPMailer->smtpConnect()
+#1 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1529): PHPMailer\PHPMailer\PHPMailer->smtpSend()
+#2 /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php(1365): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/zw362vdfpw0b/public_html/Emailer/sendmail.php(40): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/zw362vdfpw0b/public_html/Emailer/PHPMailer/PHPMailer.php on line 1960
+[13-Nov-2021 08:29:21 UTC] PHP Warning:  Undefined array key "url" in /home/zw362vdfpw0b/public_html/Emailer/retriever.php on line 22
